@@ -1,6 +1,10 @@
 # 💫 About Me:
 👋 Hi, I’m Ram Sharma — a B.Tech CSE student and developer based in Raipur, passionate about Web Development, Machine Learning, and DSA. I code in JavaScript & Python, and build with React, Django, TensorFlow, and PyTorch.<br><br>🚀 I’m exploring Generative AI for NLP and predictive modeling, with hands-on work in ethical AI and sustainable agri-tech solutions. As President of CODICIAN Club, I organize tech events like Portfolio Bootcamp and The Breach to empower fellow students.<br><br>🎮 When I’m not coding, I’m either gaming, writing shayari, or tuning into tech podcasts.<br><br>🌐 Let’s connect and create something awesome!
 
+## Portfolio
+
+https://portfolio-ram-sharma.netlify.app/
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramsharma.25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmaram2504@gmail.com) 
