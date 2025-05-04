@@ -3,7 +3,7 @@
 
 ## Portfolio
 
-[![Portfolio].(https://portfolio-ram-sharma.netlify.app/).]
+https://portfolio-ram-sharma.netlify.app/
 
 
 ## 🌐 Socials:
@@ -28,4 +28,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sharmaram25&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
