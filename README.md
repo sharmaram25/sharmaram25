@@ -3,7 +3,7 @@
 
 ## Portfolio
 
-https://portfolio-ram-sharma.netlify.app/
+[![Portfolio].(https://portfolio-ram-sharma.netlify.app/).]
 
 
 ## 🌐 Socials:
